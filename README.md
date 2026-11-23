@@ -19,3 +19,4 @@ generated for DataSpace. Below are more detailed descriptions for these items:
 * [Invalid Identifiers](invalid-identifiers.md): 2,731 invalid identifiers
 * [Library collection](library.md): 476 archived items
 * [Seeger Center for Hellenic Studies](seeger.md): 2 collections and 5 archived items
+* [Miscellaneous](misc.md): 5 collections and 26 temporarily archived items
